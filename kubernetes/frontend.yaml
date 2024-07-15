@@ -27,6 +27,6 @@ spec:
     spec:
       containers:
         - name: nginx-frontend
-          image: kinanhino/nginx-frontend:1.0
+          image: kinanhino/nginx-frontend:1.1
           ports:
             - containerPort: 80
